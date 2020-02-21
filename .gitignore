@@ -9,3 +9,4 @@
 /RestTemplate/target/
 /target/
 /zuul/target/
+*target*

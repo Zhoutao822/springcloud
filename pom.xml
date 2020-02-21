@@ -21,6 +21,11 @@
         <module>hystrix</module>
         <module>nativeconfigserver</module>
         <module>nativeconfigclient</module>
+        <module>configserver</module>
+        <module>configclient</module>
+        <module>zipkin</module>
+        <module>zipkinclient</module>
+        <module>zipkinserver</module>
     </modules>
 
     <parent>
@@ -52,7 +57,6 @@
                 <type>pom</type>
                 <scope>import</scope>
             </dependency>
-
         </dependencies>
     </dependencyManagement>
 

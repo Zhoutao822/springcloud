@@ -1,0 +1,16 @@
+server:
+  port: 8877
+  compression:
+    enabled: true
+spring:
+#  application:
+#    name: zipkin-server
+    main:
+      web-application-type: none
+#  main:
+#    allow-bean-definition-overriding: true
+#management:
+#  metrics:
+#    web:
+#      server:
+#        auto-time-requests: false

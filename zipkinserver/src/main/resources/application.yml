@@ -1,0 +1,8 @@
+#spring:
+#  main:
+#    web-application-type: none
+#  application:
+#    name: zipkinserver
+#server:
+#  compression:
+#    enabled: true
